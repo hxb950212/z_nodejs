@@ -1,0 +1,17 @@
+无中生有的 标记魔法 HTML 
+赏心悦目的 样式魔法 CSS  
+翻江倒海的 编程魔法 JavaScript
+
+乾坤挪移 是内框 <iframe>  http://code.mapabc.com/class_javascript.html
+惊天泣鬼 是段落 <p></p>  文明:用符号描述。文化：用符号改变。仓颉，巴别塔变乱语言。
+乱花迷人 是图像 <img> 
+千里姻缘 超链接 <a></a>  
+震耳欲聋 是音频 <audio></audio> 
+耳目一新 是视频 <video></video> 
+格物致知 是区块 <div></div> 
+片言只语 是片段 <span>  
+井然有序 是表格 <table><tr><td></td></tr></table> 
+跃然纸上 是画布 <canvas></canvas> 
+把酒问天 是表单 <form><input></form> 
+
+在手机上用浏览器编C语言程序:http://ideone.com/

@@ -1,0 +1,22 @@
+﻿<!doctype html>
+<html><head><meta charset="utf-8">
+<title>用{}创建对象示例</title>
+</head>
+<body> 
+<script>
+var myObj={ name:'hello,world!',
+width:6,
+height:8,
+result:0,
+area:function (){ this.result=this.width*this.height; }
+}
+myObj.area(); 
+document.write(myObj.result);
+document.write('<br>'+myObj.name);
+myObj.test='very good!';
+document.write('<br>'+myObj.test);
+myObj.func=function (){ return 60; };
+document.write('<br>'+myObj.func());
+</script>
+</body>
+</html>

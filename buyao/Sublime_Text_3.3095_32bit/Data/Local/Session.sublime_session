@@ -1,0 +1,1446 @@
+{
+	"folder_history":
+	[
+		"/C/Users/killer/Documents/GitHub/tata",
+		"/C/Users/killer/learngit",
+		"/D/z_nodejs/zuoye",
+		"/D/z_nodejs/zuoye/public",
+		"/D/92",
+		"/E/z_nodejs/zuoye",
+		"/C/Users/cjs123/Desktop/copperlicht-1.9-sdk"
+	],
+	"last_version": 3095,
+	"last_window_id": 41,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 894.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"stop",
+						"stopright"
+					],
+					[
+						"merge",
+						"mergeArrays"
+					],
+					[
+						"shell",
+						"shellSort1"
+					],
+					[
+						"个",
+						"个元素执行冒泡排序消耗的时间为："
+					],
+					[
+						"data",
+						"dataStore"
+					],
+					[
+						"sele",
+						"selectionSort"
+					],
+					[
+						"ver",
+						"vertex	(Graph.js)"
+					],
+					[
+						"show",
+						"showGraph"
+					],
+					[
+						"fill",
+						"fillStyle='black"
+					],
+					[
+						"null",
+						"null"
+					],
+					[
+						"style",
+						"stylesheet"
+					],
+					[
+						"table",
+						"table"
+					],
+					[
+						"Hash",
+						"HashTable"
+					],
+					[
+						"be",
+						"betterHash"
+					],
+					[
+						"p",
+						"pbook"
+					],
+					[
+						"for",
+						"for of"
+					],
+					[
+						"proto",
+						"prototype"
+					],
+					[
+						"curr",
+						"currNode"
+					],
+					[
+						"disp",
+						"dispReverse"
+					],
+					[
+						"print",
+						"print()	Window"
+					],
+					[
+						"function",
+						"function(){\n	$0\n})();	(function(){\n	$0\n})();"
+					],
+					[
+						"whil",
+						"while()"
+					],
+					[
+						"dis",
+						"display"
+					],
+					[
+						"if",
+						"if()"
+					],
+					[
+						"whiel",
+						"while()"
+					],
+					[
+						"wh",
+						"while"
+					],
+					[
+						"num",
+						"num"
+					],
+					[
+						"el",
+						"else"
+					],
+					[
+						"plan",
+						"palindrome"
+					],
+					[
+						"is",
+						"isPalindrome"
+					],
+					[
+						"alert",
+						"alerting	Event"
+					],
+					[
+						"esle",
+						"else"
+					],
+					[
+						"new",
+						"newNum2"
+					],
+					[
+						"fun",
+						"fun	Function"
+					],
+					[
+						"console",
+						"console.log('$0');"
+					],
+					[
+						"get",
+						"get	$.get()"
+					],
+					[
+						"gi",
+						"document.getElementById(${0:id})	Document"
+					],
+					[
+						"year",
+						"year"
+					],
+					[
+						"week",
+						"weeklytemp"
+					],
+					[
+						"arr",
+						"arr1"
+					],
+					[
+						"drag",
+						"drag1"
+					],
+					[
+						"doc",
+						"doctype	(home.ejs)"
+					],
+					[
+						"text",
+						"text1"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 196.0,
+				"last_filter": "js",
+				"selected_items":
+				[
+					[
+						"js",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"pcl",
+						"Package Control: List Packages"
+					],
+					[
+						"fe",
+						"Fetch: Manage"
+					],
+					[
+						"pci",
+						"Package Control: Install Package"
+					],
+					[
+						"pc",
+						"Package Control: Install Package"
+					],
+					[
+						"ssjs",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"sshtm",
+						"Set Syntax: HTML"
+					],
+					[
+						"ss",
+						"Set Syntax: HTML"
+					],
+					[
+						"sshtml",
+						"Set Syntax: HTML"
+					],
+					[
+						"snippet",
+						"Snippet: Function"
+					],
+					[
+						"snipet",
+						"Snippet: Function"
+					],
+					[
+						"sna",
+						"Snippet: Anonymous Function"
+					],
+					[
+						"ss html",
+						"Set Syntax: HTML"
+					],
+					[
+						"纯文本",
+						"Set Syntax: 纯文本"
+					],
+					[
+						"text",
+						"Set Syntax: Textile"
+					],
+					[
+						"css",
+						"Set Syntax: CSS"
+					],
+					[
+						"java",
+						"Set Syntax: Java"
+					],
+					[
+						"html",
+						"HTML: Encode Special Characters"
+					],
+					[
+						"txt",
+						"Set Syntax: TeX Math"
+					],
+					[
+						"tet",
+						"View: Toggle Tabs"
+					],
+					[
+						"set syntax ",
+						"Set Syntax: 纯文本"
+					],
+					[
+						"set syntax javascript",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"syntax javascript",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 464.0
+			},
+			"console":
+			{
+				"height": 146.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/D/jsshell-win64/aa/CArry.js",
+				"/D/jsshell-win64/aa/qSort.js",
+				"/D/jsshell-win64/aa/cs6.js",
+				"/C/Users/killer/Desktop/data_structures_and_algorithms_using_javascript-master/Chapter12/Chap12Shellsort.js",
+				"/C/Users/killer/Desktop/data_structures_and_algorithms_using_javascript-master/Chapter12/Chap12-14.js",
+				"/D/jsshell-win64/aa/mergeSort.js",
+				"/C/Users/killer/mergeSort.js",
+				"/D/jsshell-win64/aa/cs5.js",
+				"/D/z_nodejs/buyao/Sublime_Text_3.3095_32bit/Data/Packages/User/Fetch.sublime-settings",
+				"/D/z_nodejs/buyao/Sublime_Text_3.3095_32bit/Data/Packages/Default/Preferences.sublime-settings",
+				"/D/z_nodejs/buyao/Sublime_Text_3.3095_32bit/Data/Packages/User/Preferences.sublime-settings",
+				"/D/jsshell-win64/aa/CArray.js",
+				"/D/jsshell-win64/aa/cs4.js",
+				"/C/Users/killer/Desktop/data_structures_and_algorithms_using_javascript-master/Chapter12/Chap12-12.js",
+				"/C/Users/killer/Desktop/data_structures_and_algorithms_using_javascript-master/Chapter12/Chap12-10.js",
+				"/C/Users/killer/Desktop/data_structures_and_algorithms_using_javascript-master/Chapter12/Chap12-9.js",
+				"/C/Users/killer/Desktop/data_structures_and_algorithms_using_javascript-master/Chapter12/Chap12-8.js",
+				"/C/Users/killer/Desktop/data_structures_and_algorithms_using_javascript-master/Chapter12/Chap12-11.js",
+				"/D/jsshell-win64/aa/cs3.js",
+				"/C/Users/killer/Desktop/data_structures_and_algorithms_using_javascript-master/Chapter12/Chap12-6.js",
+				"/C/Users/killer/Desktop/data_structures_and_algorithms_using_javascript-master/Chapter12/Chap12-5.js",
+				"/C/Users/killer/Desktop/data_structures_and_algorithms_using_javascript-master/Chapter12/Chap12-4.js",
+				"/C/Users/killer/Desktop/data_structures_and_algorithms_using_javascript-master/Chapter12/Chap12-3.js",
+				"/D/jsshell-win64/aa/bubbleSort.js",
+				"/C/Users/killer/Desktop/data_structures_and_algorithms_using_javascript-master/Chapter12/Chap12-2.js",
+				"/D/jsshell-win64/aa/cs2.js",
+				"/C/Users/killer/Desktop/data_structures_and_algorithms_using_javascript-master/Chapter11/Chap11-6.js",
+				"/D/jsshell-win64/Chap11-7.js",
+				"/C/Users/killer/Desktop/loop.js",
+				"/C/Users/killer/Desktop/data_structures_and_algorithms_using_javascript-master/Chapter11/Chap11-7.js",
+				"/C/Users/killer/Desktop/Graph.js",
+				"/C/Users/killer/Desktop/find num.js",
+				"/C/Users/killer/Desktop/躲避游戏.html",
+				"/C/Users/killer/Downloads/AntiAdware.user.js",
+				"/C/Users/killer/Desktop/二叉树查找中序遍历示例.js",
+				"/D/jsshell-win64/aa/hannuo.js",
+				"/D/zuoye/testModule.js",
+				"/I/hannuo.js",
+				"/D/jsshell-win64/aa/chap11-3.js",
+				"/D/jsshell-win64/aa/chap11-2.js",
+				"/C/Users/killer/AppData/Local/Temp/Rar$DIa0.394/app.js",
+				"/D/jsshell-win64/aa/chap11-1.js",
+				"/C/Users/killer/Desktop/BST各种定义及其使用.js",
+				"/D/jsshell-win64/aa/Chap7-2.js",
+				"/D/jsshell-win64/hehe/Chapter11/Chap11-1.js",
+				"/C/Users/killer/Desktop/data_structures_and_algorithms_using_javascript-master/data_structures_and_algorithms_using_javascript-master/Chapter11/Chap11-1.js",
+				"/D/jsshell-win64/aa/a.js",
+				"/C/Users/killer/Desktop/data_structures_and_algorithms_using_javascript-master/data_structures_and_algorithms_using_javascript-master/Chapter10/Chap10-5.js",
+				"/D/z_nodejs/zuoye/public/a.html",
+				"/D/web/hehe/date.js",
+				"/C/Users/killer/Desktop/对散列表排序，对散列表进行取值.js",
+				"/C/Users/killer/Desktop/使用开链法实现消除碰撞.js",
+				"/C/Users/killer/Desktop/data_structures_and_algorithms_using_javascript-master/data_structures_and_algorithms_using_javascript-master/Chapter8/Chap8-3.js",
+				"/C/Users/killer/Desktop/data_structures_and_algorithms_using_javascript-master/data_structures_and_algorithms_using_javascript-master/Chapter8/Chap8-4.js",
+				"/C/Users/killer/Desktop/data_structures_and_algorithms_using_javascript-master/data_structures_and_algorithms_using_javascript-master/Chapter8/Chap8-5.js",
+				"/C/Users/killer/Desktop/data_structures_and_algorithms_using_javascript-master/data_structures_and_algorithms_using_javascript-master/Chapter8/hashing.js",
+				"/C/Users/killer/Desktop/散列字符串类型数据的使用示例.js",
+				"/D/zuoye/app.js",
+				"/C/Users/killer/learngit/gitskills/.git/config",
+				"/C/Users/killer/learngit/.git/config",
+				"/C/Users/killer/learngit/readme.txt",
+				"/C/Users/killer/learngit/vulcan.py",
+				"/C/Users/killer/.ssh/id_rsa.pub",
+				"/C/Users/killer/learngit/text.txt",
+				"/C/Users/killer/learngit/LICENSE.txt",
+				"/D/z_nodejs/zuoye/public/js2.html",
+				"/D/z_nodejs/zuoye/routes/index.js",
+				"/D/z_nodejs/buyao/foo.js",
+				"/D/z_nodejs/zuoye/views/header.ejs",
+				"/D/z_nodejs/zuoye/public/xxyz.css",
+				"/D/z_nodejs/zuoye/public/bs/index1.html",
+				"/C/Users/killer/Desktop/data_structures_and_algorithms_using_javascript-master/data_structures_and_algorithms_using_javascript-master/Chapter7/Chap7-5.js",
+				"/C/Users/killer/Desktop/data_structures_and_algorithms_using_javascript-master/data_structures_and_algorithms_using_javascript-master/Chapter7/Chap7-4.js",
+				"/C/Users/killer/Desktop/data_structures_and_algorithms_using_javascript-master/data_structures_and_algorithms_using_javascript-master/Chapter7/Chap7-3.js",
+				"/C/Users/killer/Desktop/data_structures_and_algorithms_using_javascript-master/data_structures_and_algorithms_using_javascript-master/Chapter7/Chap7-2.js",
+				"/C/Users/killer/Desktop/data_structures_and_algorithms_using_javascript-master/data_structures_and_algorithms_using_javascript-master/Chapter7/Dictionary.js",
+				"/C/Users/killer/Desktop/书上Dictionary行不通 （自己给的代码都有无法识别错误）.js",
+				"/D/jsshell-win64/aa/双向链表的功能实现.js",
+				"/D/jsshell-win64/aa/1.js",
+				"/D/z_nodejs/buyao/1.js",
+				"/D/jsshell-win64/aa/loop.js",
+				"/D/jsshell-win64/aa/hxb.js",
+				"/D/z_nodejs/buyao/loop.js",
+				"/D/z_nodejs/buyao/javascripting-master/javascripting-master/problems/accessing-array-values/index.js",
+				"/D/z_nodejs/buyao/javascripting-master/javascripting-master/solutions/for-loop/index.js",
+				"/D/z_nodejs/zuoye/public/bs/index.html",
+				"/D/z_nodejs/zuoye/public/db/index.html",
+				"/D/z_nodejs/zuoye/public/db",
+				"/D/z_nodejs/zuoye/db",
+				"/D/z_nodejs/zuoye/app.js",
+				"/D/z_nodejs/zuoye/views/home.ejs",
+				"/D/z_nodejs/zuoye/views/cookie_view.ejs",
+				"/C/Users/killer/Desktop/数值间的相互转换.js",
+				"/D/z_nodejs/zuoye/public/判断一个字符是否为回文.js",
+				"/D/z_nodejs/zuoye/public/测试2.js",
+				"/D/z_nodejs/zuoye/public/测试.html",
+				"/D/z_nodejs/zuoye/.jshintrc",
+				"/D/z_nodejs/zuoye/public/测试2.html",
+				"/D/z_nodejs/zuoye/public/hehe.html",
+				"/D/z_nodejs/zuoye/stylesheets/hehe.html",
+				"/C/Users/killer/Desktop/hxb.js",
+				"/C/Users/killer/Desktop/data_structures_and_algorithms_using_javascript-master/data_structures_and_algorithms_using_javascript-master/Chapter2/chap2_14.js",
+				"/C/Users/killer/Desktop/data_structures_and_algorithms_using_javascript-master/data_structures_and_algorithms_using_javascript-master/Chapter2/chap2_9.js",
+				"/C/Users/killer/Desktop/data_structures_and_algorithms_using_javascript-master/data_structures_and_algorithms_using_javascript-master/Chapter1/chapter1.js",
+				"/C/Users/killer/Desktop/data_structures_and_algorithms_using_javascript-master/data_structures_and_algorithms_using_javascript-master/Chapter2/chap2.js",
+				"/C/Users/killer/Desktop/新建文件夹/桌游/ChineseChess/ChineseChess.html",
+				"/D/loop.js",
+				"/C/Users/killer/AppData/Local/Temp/Rar$DIa0.488/chapter1.js",
+				"/C/Users/killer/Desktop/data_structures_and_algorithms_using_javascript-master/data_structures_and_algorithms_using_javascript-master/Chapter2/chap2_1.js",
+				"/D/zuoye/loop.js",
+				"/D/zuoye/routes/index.js",
+				"/D/zuoye/routes/user.js",
+				"/D/zuoye/views/index.ejs",
+				"/C/Users/killer/Desktop/复杂的manifest举例.manifest",
+				"/F/node.js 例子/nodejsrobot-master/nodejsrobot-master/robot.js",
+				"/D/z_nodejs/zuoye/views/insert.ejs",
+				"/D/92/index.html",
+				"/D/92/js/AI.js",
+				"/D/92/js/common.js",
+				"/D/92/js/play.js",
+				"/D/z_nodejs/zuoye/views/param_get.ejs",
+				"/D/z_nodejs/zuoye/views/param.ejs",
+				"/E/z_nodejs/zuoye/app.js"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"Arr",
+					"arr",
+					"Arr",
+					"arr",
+					"Arr",
+					"arr",
+					"Arr",
+					"arr",
+					"Arr",
+					"arr",
+					"Arr",
+					"arr",
+					"Arr",
+					"arr",
+					"Arr",
+					"arr",
+					"Arr",
+					"arr",
+					"Arr",
+					"arr",
+					"Arr",
+					"arr",
+					"startleft",
+					"stopleft",
+					"startright",
+					"stopright",
+					"new",
+					"new ",
+					"new",
+					"var",
+					"print(this.toString());",
+					" print(this.toString());",
+					"print(this.toString());\n	}",
+					"消耗的时间为：",
+					"毫秒。",
+					"对",
+					"numElements",
+					"myNums",
+					"bublbe",
+					"bubbleSort",
+					"++i",
+					"stack",
+					"X",
+					"w",
+					";",
+					",",
+					"/n",
+					"\"/n\"",
+					"consolel",
+					"/n",
+					"<br/>",
+					"print",
+					"console.log",
+					"print",
+					"putstr",
+					"pustr",
+					"print",
+					"console.log",
+					"alert",
+					"console.log",
+					"node.show()",
+					"Inorder",
+					"postOrder",
+					"currnet",
+					"inorder",
+					"pnumbers",
+					"print",
+					"readline()",
+					"putstr",
+					"print",
+					"\"",
+					".",
+					"Russllville",
+					",",
+					"=",
+					"!=",
+					"==",
+					"function",
+					"Llist",
+					"console.log",
+					"alert",
+					"currNode",
+					"print",
+					"is",
+					"base",
+					"console.log",
+					"alerting",
+					"console.log",
+					"8",
+					"125",
+					"2",
+					"32",
+					"><",
+					"cool",
+					"huangxiaobo",
+					"speaking",
+					"var"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 35.0
+			},
+			"input":
+			{
+				"height": 40.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 154.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 66.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"index",
+						"routes\\index.js"
+					],
+					[
+						"cookie",
+						"views\\cookie_view.ejs"
+					],
+					[
+						"",
+						"public\\a.html"
+					],
+					[
+						"publica.",
+						"public\\a.html"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 157.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1689.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"stop",
+						"stopright"
+					],
+					[
+						"merge",
+						"mergeArrays"
+					],
+					[
+						"shell",
+						"shellSort1"
+					],
+					[
+						"个",
+						"个元素执行冒泡排序消耗的时间为："
+					],
+					[
+						"data",
+						"dataStore"
+					],
+					[
+						"sele",
+						"selectionSort"
+					],
+					[
+						"ver",
+						"vertex	(Graph.js)"
+					],
+					[
+						"show",
+						"showGraph"
+					],
+					[
+						"fill",
+						"fillStyle='black"
+					],
+					[
+						"null",
+						"null"
+					],
+					[
+						"style",
+						"stylesheet"
+					],
+					[
+						"table",
+						"table"
+					],
+					[
+						"Hash",
+						"HashTable"
+					],
+					[
+						"be",
+						"betterHash"
+					],
+					[
+						"p",
+						"pbook"
+					],
+					[
+						"for",
+						"for of"
+					],
+					[
+						"proto",
+						"prototype"
+					],
+					[
+						"curr",
+						"currNode"
+					],
+					[
+						"disp",
+						"dispReverse"
+					],
+					[
+						"print",
+						"print()	Window"
+					],
+					[
+						"function",
+						"function(){\n	$0\n})();	(function(){\n	$0\n})();"
+					],
+					[
+						"whil",
+						"while()"
+					],
+					[
+						"dis",
+						"display"
+					],
+					[
+						"if",
+						"if()"
+					],
+					[
+						"whiel",
+						"while()"
+					],
+					[
+						"wh",
+						"while"
+					],
+					[
+						"num",
+						"num"
+					],
+					[
+						"el",
+						"else"
+					],
+					[
+						"plan",
+						"palindrome"
+					],
+					[
+						"is",
+						"isPalindrome"
+					],
+					[
+						"alert",
+						"alerting	Event"
+					],
+					[
+						"esle",
+						"else"
+					],
+					[
+						"new",
+						"newNum2"
+					],
+					[
+						"fun",
+						"fun	Function"
+					],
+					[
+						"console",
+						"console.log('$0');"
+					],
+					[
+						"get",
+						"get	$.get()"
+					],
+					[
+						"gi",
+						"document.getElementById(${0:id})	Document"
+					],
+					[
+						"year",
+						"year"
+					],
+					[
+						"week",
+						"weeklytemp"
+					],
+					[
+						"arr",
+						"arr1"
+					],
+					[
+						"drag",
+						"drag1"
+					],
+					[
+						"doc",
+						"doctype	(home.ejs)"
+					],
+					[
+						"text",
+						"text1"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/C/Users/killer/Documents/GitHub/tata/hello",
+					"settings":
+					{
+						"buffer_size": 15,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 219.0,
+				"last_filter": "js",
+				"selected_items":
+				[
+					[
+						"js",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"pcl",
+						"Package Control: List Packages"
+					],
+					[
+						"fe",
+						"Fetch: Manage"
+					],
+					[
+						"pci",
+						"Package Control: Install Package"
+					],
+					[
+						"pc",
+						"Package Control: Install Package"
+					],
+					[
+						"ssjs",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"sshtm",
+						"Set Syntax: HTML"
+					],
+					[
+						"ss",
+						"Set Syntax: HTML"
+					],
+					[
+						"sshtml",
+						"Set Syntax: HTML"
+					],
+					[
+						"snippet",
+						"Snippet: Function"
+					],
+					[
+						"snipet",
+						"Snippet: Function"
+					],
+					[
+						"sna",
+						"Snippet: Anonymous Function"
+					],
+					[
+						"ss html",
+						"Set Syntax: HTML"
+					],
+					[
+						"纯文本",
+						"Set Syntax: 纯文本"
+					],
+					[
+						"text",
+						"Set Syntax: Textile"
+					],
+					[
+						"css",
+						"Set Syntax: CSS"
+					],
+					[
+						"java",
+						"Set Syntax: Java"
+					],
+					[
+						"html",
+						"HTML: Encode Special Characters"
+					],
+					[
+						"txt",
+						"Set Syntax: TeX Math"
+					],
+					[
+						"tet",
+						"View: Toggle Tabs"
+					],
+					[
+						"set syntax ",
+						"Set Syntax: 纯文本"
+					],
+					[
+						"set syntax javascript",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"syntax javascript",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 464.0
+			},
+			"console":
+			{
+				"height": 146.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/C/Users/killer/Documents/GitHub/tata"
+			],
+			"file_history":
+			[
+				"/C/Users/killer/Documents/GitHub/tata/hehe",
+				"/D/jsshell-win64/aa/CArry.js",
+				"/D/jsshell-win64/aa/qSort.js",
+				"/D/jsshell-win64/aa/cs6.js",
+				"/C/Users/killer/Desktop/data_structures_and_algorithms_using_javascript-master/Chapter12/Chap12Shellsort.js",
+				"/C/Users/killer/Desktop/data_structures_and_algorithms_using_javascript-master/Chapter12/Chap12-14.js",
+				"/D/jsshell-win64/aa/mergeSort.js",
+				"/C/Users/killer/mergeSort.js",
+				"/D/jsshell-win64/aa/cs5.js",
+				"/D/z_nodejs/buyao/Sublime_Text_3.3095_32bit/Data/Packages/User/Fetch.sublime-settings",
+				"/D/z_nodejs/buyao/Sublime_Text_3.3095_32bit/Data/Packages/Default/Preferences.sublime-settings",
+				"/D/z_nodejs/buyao/Sublime_Text_3.3095_32bit/Data/Packages/User/Preferences.sublime-settings",
+				"/D/jsshell-win64/aa/CArray.js",
+				"/D/jsshell-win64/aa/cs4.js",
+				"/C/Users/killer/Desktop/data_structures_and_algorithms_using_javascript-master/Chapter12/Chap12-12.js",
+				"/C/Users/killer/Desktop/data_structures_and_algorithms_using_javascript-master/Chapter12/Chap12-10.js",
+				"/C/Users/killer/Desktop/data_structures_and_algorithms_using_javascript-master/Chapter12/Chap12-9.js",
+				"/C/Users/killer/Desktop/data_structures_and_algorithms_using_javascript-master/Chapter12/Chap12-8.js",
+				"/C/Users/killer/Desktop/data_structures_and_algorithms_using_javascript-master/Chapter12/Chap12-11.js",
+				"/D/jsshell-win64/aa/cs3.js",
+				"/C/Users/killer/Desktop/data_structures_and_algorithms_using_javascript-master/Chapter12/Chap12-6.js",
+				"/C/Users/killer/Desktop/data_structures_and_algorithms_using_javascript-master/Chapter12/Chap12-5.js",
+				"/C/Users/killer/Desktop/data_structures_and_algorithms_using_javascript-master/Chapter12/Chap12-4.js",
+				"/C/Users/killer/Desktop/data_structures_and_algorithms_using_javascript-master/Chapter12/Chap12-3.js",
+				"/D/jsshell-win64/aa/bubbleSort.js",
+				"/C/Users/killer/Desktop/data_structures_and_algorithms_using_javascript-master/Chapter12/Chap12-2.js",
+				"/D/jsshell-win64/aa/cs2.js",
+				"/C/Users/killer/Desktop/data_structures_and_algorithms_using_javascript-master/Chapter11/Chap11-6.js",
+				"/D/jsshell-win64/Chap11-7.js",
+				"/C/Users/killer/Desktop/loop.js",
+				"/C/Users/killer/Desktop/data_structures_and_algorithms_using_javascript-master/Chapter11/Chap11-7.js",
+				"/C/Users/killer/Desktop/Graph.js",
+				"/C/Users/killer/Desktop/find num.js",
+				"/C/Users/killer/Desktop/躲避游戏.html",
+				"/C/Users/killer/Downloads/AntiAdware.user.js",
+				"/C/Users/killer/Desktop/二叉树查找中序遍历示例.js",
+				"/D/jsshell-win64/aa/hannuo.js",
+				"/D/zuoye/testModule.js",
+				"/I/hannuo.js",
+				"/D/jsshell-win64/aa/chap11-3.js",
+				"/D/jsshell-win64/aa/chap11-2.js",
+				"/C/Users/killer/AppData/Local/Temp/Rar$DIa0.394/app.js",
+				"/D/jsshell-win64/aa/chap11-1.js",
+				"/C/Users/killer/Desktop/BST各种定义及其使用.js",
+				"/D/jsshell-win64/aa/Chap7-2.js",
+				"/D/jsshell-win64/hehe/Chapter11/Chap11-1.js",
+				"/C/Users/killer/Desktop/data_structures_and_algorithms_using_javascript-master/data_structures_and_algorithms_using_javascript-master/Chapter11/Chap11-1.js",
+				"/D/jsshell-win64/aa/a.js",
+				"/C/Users/killer/Desktop/data_structures_and_algorithms_using_javascript-master/data_structures_and_algorithms_using_javascript-master/Chapter10/Chap10-5.js",
+				"/D/z_nodejs/zuoye/public/a.html",
+				"/D/web/hehe/date.js",
+				"/C/Users/killer/Desktop/对散列表排序，对散列表进行取值.js",
+				"/C/Users/killer/Desktop/使用开链法实现消除碰撞.js",
+				"/C/Users/killer/Desktop/data_structures_and_algorithms_using_javascript-master/data_structures_and_algorithms_using_javascript-master/Chapter8/Chap8-3.js",
+				"/C/Users/killer/Desktop/data_structures_and_algorithms_using_javascript-master/data_structures_and_algorithms_using_javascript-master/Chapter8/Chap8-4.js",
+				"/C/Users/killer/Desktop/data_structures_and_algorithms_using_javascript-master/data_structures_and_algorithms_using_javascript-master/Chapter8/Chap8-5.js",
+				"/C/Users/killer/Desktop/data_structures_and_algorithms_using_javascript-master/data_structures_and_algorithms_using_javascript-master/Chapter8/hashing.js",
+				"/C/Users/killer/Desktop/散列字符串类型数据的使用示例.js",
+				"/D/zuoye/app.js",
+				"/C/Users/killer/learngit/gitskills/.git/config",
+				"/C/Users/killer/learngit/.git/config",
+				"/C/Users/killer/learngit/readme.txt",
+				"/C/Users/killer/learngit/vulcan.py",
+				"/C/Users/killer/.ssh/id_rsa.pub",
+				"/C/Users/killer/learngit/text.txt",
+				"/C/Users/killer/learngit/LICENSE.txt",
+				"/D/z_nodejs/zuoye/public/js2.html",
+				"/D/z_nodejs/zuoye/routes/index.js",
+				"/D/z_nodejs/buyao/foo.js",
+				"/D/z_nodejs/zuoye/views/header.ejs",
+				"/D/z_nodejs/zuoye/public/xxyz.css",
+				"/D/z_nodejs/zuoye/public/bs/index1.html",
+				"/C/Users/killer/Desktop/data_structures_and_algorithms_using_javascript-master/data_structures_and_algorithms_using_javascript-master/Chapter7/Chap7-5.js",
+				"/C/Users/killer/Desktop/data_structures_and_algorithms_using_javascript-master/data_structures_and_algorithms_using_javascript-master/Chapter7/Chap7-4.js",
+				"/C/Users/killer/Desktop/data_structures_and_algorithms_using_javascript-master/data_structures_and_algorithms_using_javascript-master/Chapter7/Chap7-3.js",
+				"/C/Users/killer/Desktop/data_structures_and_algorithms_using_javascript-master/data_structures_and_algorithms_using_javascript-master/Chapter7/Chap7-2.js",
+				"/C/Users/killer/Desktop/data_structures_and_algorithms_using_javascript-master/data_structures_and_algorithms_using_javascript-master/Chapter7/Dictionary.js",
+				"/C/Users/killer/Desktop/书上Dictionary行不通 （自己给的代码都有无法识别错误）.js",
+				"/D/jsshell-win64/aa/双向链表的功能实现.js",
+				"/D/jsshell-win64/aa/1.js",
+				"/D/z_nodejs/buyao/1.js",
+				"/D/jsshell-win64/aa/loop.js",
+				"/D/jsshell-win64/aa/hxb.js",
+				"/D/z_nodejs/buyao/loop.js",
+				"/D/z_nodejs/buyao/javascripting-master/javascripting-master/problems/accessing-array-values/index.js",
+				"/D/z_nodejs/buyao/javascripting-master/javascripting-master/solutions/for-loop/index.js",
+				"/D/z_nodejs/zuoye/public/bs/index.html",
+				"/D/z_nodejs/zuoye/public/db/index.html",
+				"/D/z_nodejs/zuoye/public/db",
+				"/D/z_nodejs/zuoye/db",
+				"/D/z_nodejs/zuoye/app.js",
+				"/D/z_nodejs/zuoye/views/home.ejs",
+				"/D/z_nodejs/zuoye/views/cookie_view.ejs",
+				"/C/Users/killer/Desktop/数值间的相互转换.js",
+				"/D/z_nodejs/zuoye/public/判断一个字符是否为回文.js",
+				"/D/z_nodejs/zuoye/public/测试2.js",
+				"/D/z_nodejs/zuoye/public/测试.html",
+				"/D/z_nodejs/zuoye/.jshintrc",
+				"/D/z_nodejs/zuoye/public/测试2.html",
+				"/D/z_nodejs/zuoye/public/hehe.html",
+				"/D/z_nodejs/zuoye/stylesheets/hehe.html",
+				"/C/Users/killer/Desktop/hxb.js",
+				"/C/Users/killer/Desktop/data_structures_and_algorithms_using_javascript-master/data_structures_and_algorithms_using_javascript-master/Chapter2/chap2_14.js",
+				"/C/Users/killer/Desktop/data_structures_and_algorithms_using_javascript-master/data_structures_and_algorithms_using_javascript-master/Chapter2/chap2_9.js",
+				"/C/Users/killer/Desktop/data_structures_and_algorithms_using_javascript-master/data_structures_and_algorithms_using_javascript-master/Chapter1/chapter1.js",
+				"/C/Users/killer/Desktop/data_structures_and_algorithms_using_javascript-master/data_structures_and_algorithms_using_javascript-master/Chapter2/chap2.js",
+				"/C/Users/killer/Desktop/新建文件夹/桌游/ChineseChess/ChineseChess.html",
+				"/D/loop.js",
+				"/C/Users/killer/AppData/Local/Temp/Rar$DIa0.488/chapter1.js",
+				"/C/Users/killer/Desktop/data_structures_and_algorithms_using_javascript-master/data_structures_and_algorithms_using_javascript-master/Chapter2/chap2_1.js",
+				"/D/zuoye/loop.js",
+				"/D/zuoye/routes/index.js",
+				"/D/zuoye/routes/user.js",
+				"/D/zuoye/views/index.ejs",
+				"/C/Users/killer/Desktop/复杂的manifest举例.manifest",
+				"/F/node.js 例子/nodejsrobot-master/nodejsrobot-master/robot.js",
+				"/D/z_nodejs/zuoye/views/insert.ejs",
+				"/D/92/index.html",
+				"/D/92/js/AI.js",
+				"/D/92/js/common.js",
+				"/D/92/js/play.js",
+				"/D/z_nodejs/zuoye/views/param_get.ejs",
+				"/D/z_nodejs/zuoye/views/param.ejs",
+				"/E/z_nodejs/zuoye/app.js"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"Arr",
+					"arr",
+					"Arr",
+					"arr",
+					"Arr",
+					"arr",
+					"Arr",
+					"arr",
+					"Arr",
+					"arr",
+					"Arr",
+					"arr",
+					"Arr",
+					"arr",
+					"Arr",
+					"arr",
+					"Arr",
+					"arr",
+					"Arr",
+					"arr",
+					"Arr",
+					"arr",
+					"startleft",
+					"stopleft",
+					"startright",
+					"stopright",
+					"new",
+					"new ",
+					"new",
+					"var",
+					"print(this.toString());",
+					" print(this.toString());",
+					"print(this.toString());\n	}",
+					"消耗的时间为：",
+					"毫秒。",
+					"对",
+					"numElements",
+					"myNums",
+					"bublbe",
+					"bubbleSort",
+					"++i",
+					"stack",
+					"X",
+					"w",
+					";",
+					",",
+					"/n",
+					"\"/n\"",
+					"consolel",
+					"/n",
+					"<br/>",
+					"print",
+					"console.log",
+					"print",
+					"putstr",
+					"pustr",
+					"print",
+					"console.log",
+					"alert",
+					"console.log",
+					"node.show()",
+					"Inorder",
+					"postOrder",
+					"currnet",
+					"inorder",
+					"pnumbers",
+					"print",
+					"readline()",
+					"putstr",
+					"print",
+					"\"",
+					".",
+					"Russllville",
+					",",
+					"=",
+					"!=",
+					"==",
+					"function",
+					"Llist",
+					"console.log",
+					"alert",
+					"currNode",
+					"print",
+					"is",
+					"base",
+					"console.log",
+					"alerting",
+					"console.log",
+					"8",
+					"125",
+					"2",
+					"32",
+					"><",
+					"cool",
+					"huangxiaobo",
+					"speaking",
+					"var"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "C:\\Users\\killer\\Documents\\GitHub\\tata"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/Users/killer/Documents/GitHub/tata/hello",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 15,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										15,
+										15
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content"
+									],
+									"open_with_edit": true,
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 35.0
+			},
+			"input":
+			{
+				"height": 40.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 154.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,1,-32000,-32000,-1,-1,1033,76,81,1781",
+			"project": "",
+			"replace":
+			{
+				"height": 66.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"index",
+						"routes\\index.js"
+					],
+					[
+						"cookie",
+						"views\\cookie_view.ejs"
+					],
+					[
+						"",
+						"public\\a.html"
+					],
+					[
+						"publica.",
+						"public\\a.html"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 157.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 40,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

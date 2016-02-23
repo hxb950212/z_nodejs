@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="content-Type" content="text/html;charset=utf-8">
+	<title>Web SQL Database example1</title>
+</head>
+<body>
+<script type="text/javascript">
+	var db=window.openDatabase("Scoredata","1.0","学生成绩数据库",1*1024*1024);
+	db.transaction(function(tx){
+		/*创建表main*/
+		tx.executeSql("CREATE TABLE main(num int,name TEXT,score REAL)");});
+	/*调用execsqlstr函数执行后面的SQL句*/
+	execsqlstr("INSERT INTO main(num,name,score)values(201303,'liu',95)");
+	execsqlstr("INSERT INNO main(num,name,score)values(201304,'fan',87)");
+	/*调用showrecord函数显示main表的所有记录*/
+	showrecord();
+	/*插入第一条记录*/
+	db.transaction(function(tx){
+		tx.executeSql("INSERT INTO main(num,name,score) values(201301,'zhang',89)");});
+	/*插入第二条记录*/
+	db.transaction(function(tx){
+		tx.executeSql("INSERT INTO main(num,name,score) values(2013302,'wang',92)");});
+	/*显示记录*/
+	function showrecord(){
+		db.transaction(function(tx){
+			tx.executeSql("SELECT*FROM main",[],
+				function(tx,result){
+					document.write('<b>学号&nbsp;&nbsp;&nbsp;&nbsp;姓名&nbsp;&nbsp;&nbsp;&nbsp;成绩&nbsp;&nbsp;&nbsp;&nbsp;</b><br/><hr>');
+					for(var i=0;i<result.rows.length;i++){
+						document.write(result.rows.item(i)['num']+'&nbsp;&nbsp;&nbsp;&nbsp;'+result.rows.item(i)['name']+'&nbsp;&nbsp;&nbsp;&nbsp;'+result.rows.item(i)['score']+'<br/>');
+					}
+				},function(){alert("error")
+			});
+		});
+	}
+	function execsqlstr(SQLstr){
+		db.transaction(function(tx){
+			tx.executeSql(SQLstr);
+		});
+	}
+</script>
+</body>
+</html>

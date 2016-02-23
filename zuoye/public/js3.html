@@ -1,0 +1,20 @@
+﻿<!doctype html>
+<html><head><meta charset="utf-8">
+<title>用构造函数创建对象示例</title>
+</head>
+<body>
+<script>
+function MyClass(x,y){
+    this.width=x;
+    this.height=y;
+    this.result=0;    
+}
+MyClass.prototype.area=function (){
+     this.result=this.width*this.height;
+}
+var myObj=new MyClass(5,8);
+myObj.area(); 
+document.write(myObj.result);
+</script>
+</body>
+</html>

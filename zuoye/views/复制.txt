@@ -1,0 +1,7 @@
+﻿<div class="border">
+<% include header.ejs %>
+</div>
+
+<div class="border">
+<% include footer.ejs %>
+</div>

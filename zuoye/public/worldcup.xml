@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="GB2312"?>
+<!--2002年世界杯中国队所在C组情况-->
+
+<?xml-stylesheet type="text/css" href="worldcup.css" ?>
+
+<!--上面的样式表也可以更改为 type="text/xsl" href="worldcup.xsl" -->
+
+<CnGame>
+     <Opponent>
+          <TeamName ID="C1">巴西</TeamName>
+          <Place>韩国西归埔</Place>
+     </Opponent>
+     <Opponent>
+          <TeamName ID="C2">土耳其</TeamName>
+          <Place>韩国汉城</Place>			
+     </Opponent>
+     <Opponent>
+          <TeamName ID="C4">哥斯达黎加</TeamName>
+          <Place>韩国光州</Place>		
+     </Opponent>
+</CnGame>

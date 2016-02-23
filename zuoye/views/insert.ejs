@@ -1,0 +1,26 @@
+﻿<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>曾经帮助过我的人</title>
+<link rel="stylesheet" type="text/css" href="/xxyz.css">
+</head>
+<body>
+<div class="border">
+<% include header.ejs %>
+</div>
+<div class="border">
+<h1>增加一条记录：</h1> 
+<form action="/insert" method="post">
+<p>姓名：<input type="text" name="name" /></p>
+<p>年份：<input type="text" name="year" /></p>
+<p>事项：<input type="text" name="thing" size="100" /></p>
+<p>其他：<input type="text" name="qita" size="50"/></p>
+<p><input type="submit" value="增加" /></p>
+</form>
+</div>
+<div class="border">
+<% include footer.ejs %>
+</div>
+</body>
+</html>

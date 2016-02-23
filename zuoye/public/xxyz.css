@@ -1,0 +1,14 @@
+﻿body      { width:80%; margin:5px auto; background:url(img/background.gif);font-size:14px;}
+h1          { font-size:28px;color:#ff0000;}   /* html标记的样式 */
+h2          { text-indent:2em;color:#0000ff;}
+p            { text-indent:2em;}
+a:link     { color:blue;text-decoration:none;}  /*平常状态*/
+a:visited { color:blue;text-decoration:none;}  /*已被点击状态*/
+a:hover  { color:red;}  /*鼠标悬停状态*/
+a:active  { }   /*正被点击状态*/
+
+input,select,textarea { border:1px solid #616178;font-size:12px;color:#005680;}
+.title        { font-size:32px;}   /*自定义样式名*/
+.border   { border:1px solid #009933;margin:2px;}
+#div1 {font-size:50px;color:#0000ff; }   /*id为div1的元素的样式*/
+li {float:left; padding:5px 50px; }

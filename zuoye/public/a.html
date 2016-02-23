@@ -1,0 +1,76 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>静态网页</title>    
+<link rel="stylesheet" type="text/css" href="xxyz.css">
+<style> 
+body{ text-align:center} 
+.div{ margin:0 auto;  border:1px solid #F00} 
+/* css注释：为了观察效果设置宽度 边框 高度等样式 */ 
+</style> 
+</head>
+<body>
+<script>
+function myFunc1(){
+document.getElementById('test').innerHTML='进击世界第一人！';
+}
+function myFunc2(){
+document.getElementById('test').innerHTML='蒿草之下或有兰香 茅茨之屋或有王侯';
+}
+</script>
+<div class="border">
+<a href="/">首页</a> | 
+<a href="a.html">静态网页</a> | 
+<a href="3d/index.html" target="_blank">3D</a> | 
+<a href="/param">参数</a> | 
+<a href="/cookie_set">cookie</a> | 
+<a href="/insert">增加</a> | 
+<a href="/content">内容</a> | 
+<a href="/login">登录</a> | 
+<a href="/logout">注销</a>
+</div>
+<div class="border">
+<p></p>
+<p><img id="myimg" src="1.jpg" width="100" height="60" style="border:dashed red 5px;"  onclick="alert('进击的黄啸波');"  onmouseover="this.style.width='320px';this.style.height='240px';"  onmouseout="this.style.width='160px';this.style.height='120px';"></p>
+</div>
+<div class="border">
+<input type="button" value="黄啸波" style="color:red;" onclick="myFunc1();">
+<p class="title" id="test" onclick="myFunc2();">进击的黄啸波</p>
+</div>
+<div class="border">
+<audio controls>
+<source src="waipoqiao.mp3">
+你的浏览器不支持audio 标记。
+</audio>
+</div>
+
+<div class="div">
+<iframe src="http://blueballfixed.ytmnd.com/" width="780px" height="300px" scrolling="yes" borderColor="red" align="center"></iframe>
+</div>
+<div class="border"  align="center">
+	<table border="1" style="border-collapse: collapse;">
+		<tr><td>姓名</td><td>年份</td><td>事件</td></tr>
+		<tr><td>陈老师</td><td>2007~2010</td><td>是我遇到的第一个很替我着想的老师</td></tr>
+		<tr><td>蔡老师</td><td>2015</td><td>为我人生指引了新的方向</td></tr>
+	</table>
+</div>
+<a href="http://www.thankyouandywarhol.com/">点我！</a>
+<div style="align="center">
+<canvas id="myCanvas" width="200" height="100" style="border: solid 1px red ">你的浏览器不支持 canvas标记。</canvas>
+<script>
+var c=document.getElementById('myCanvas');
+var cxt=c.getContext('2d');
+cxt.moveTo(10,10);cxt.lineTo(150,50);
+cxt.lineTo(10,50);cxt.stroke();
+</script>
+</div>
+<script>
+  function getDateTime(){
+  var d=new Date();
+  document.getElementById('timePara').innerHTML="the time is:"+d;}
+</script>
+ <p><button onclick="getDateTime()">获得日期和时间</button></p>
+ <p id="timePara"></p>
+</body> 
+</html>

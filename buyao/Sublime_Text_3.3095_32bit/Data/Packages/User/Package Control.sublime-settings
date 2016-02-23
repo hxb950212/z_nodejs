@@ -1,0 +1,35 @@
+{
+	"auto_upgrade": false,
+	"auto_upgrade_ignore":
+	[
+	],
+	"auto_upgrade_last_run": null,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"BracketHighlighter",
+		"ConvertToUTF8",
+		"Default",
+		"DocBlockr",
+		"Emmet",
+		"Http Requester",
+		"IMESupport",
+		"Insert Callback",
+		"JavaScript Completions",
+		"jQuery",
+		"JSHint",
+		"Nettuts+ Fetch",
+		"Nil-Theme",
+		"Package Control",
+		"PyV8",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"SyncedSidebarBg",
+		"ZZZ"
+	]
+}
